@@ -23,7 +23,7 @@ Automatizar a triagem inicial de alertas de segurança, demonstrando as habilida
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/soc-bruteforce-detection.git
+    git clone https://github.com/MiguelFernandesdeLima/soc-bruteforce-detection.git
     cd soc-bruteforce-detection
     ```
 
